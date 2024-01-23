@@ -15,6 +15,6 @@ To install just swap out you existing library files for these. Keep the old in c
 
 Note: The FreeSans18pt7b.h did not exactly follow the outline and had a couple of extra bytes at the end
 
-
+Special thanks to Adafruit for making all this possible in the first place!
  
  
